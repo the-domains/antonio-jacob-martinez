@@ -1,0 +1,41 @@
+typography_spectrum: 0.6417765482328832
+color:
+  brandStrength: 0.2647537747398019
+  lightness: 0.43858900386840105
+  saturation: 0.7310714742634445
+  rhythmicContrast: 0.20174842909909785
+  brandColors:
+    - '#E0FBFC'
+    - '#C2DFE3'
+    - '#9DB4C0'
+    - '#5C6B73'
+    - '#253237'
+layout_spectrum: 0.5899461917579174
+author:
+  name: Antonio Jacob Martinez
+  email: antoniojacobmartinez@gmail.com
+  url: 'http://antoniojacobmartinez.com'
+name: Antonio Jacob Martinez
+navigation:
+  - name: News and Announcements
+    id: 9d5f6640-89dd-445a-b6cc-a378082b539d
+    type: content
+  - name: How to Hug
+    id: fa14be47-fc5d-4eec-af55-8fa5f1cebac8
+    type: content
+  - name: Holy X and the 9th
+    id: 17afbfbe-8c37-4206-964d-eb6531481d21
+    type: content
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/828b07fb-a8f9-4bc8-99aa-114ce6c745fd.jpg
+title: Antonio Jacob Martinez
+content: []
+description: Fine Art Photographer
+purpose:
+  - type: contact
+    url: 'mailto:antoniojacobmartinez@gmail.com'
+    label: e-mail me.
+  - type: internal
+    label: About me.
+    item: 04268a7c-39d8-4b6f-ba55-7585a7970e33
+github: true
