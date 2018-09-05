@@ -1,4 +1,3 @@
-layout_spectrum: 0.23597640855634347
 typography_spectrum: 0.6246162924332784
 color:
   brandStrength: 0.26918764113402455
@@ -12,6 +11,7 @@ color:
     - '#5C6B73'
     - '#253237'
 github: true
+layout_spectrum: 0.23597640855634347
 author:
   name: Antonio Jacob Martinez
   email: antoniojacobmartinez@gmail.com
@@ -33,6 +33,9 @@ navigation:
   - name: Anonymous Fathers and Mothers
     id: 30be4b77-5047-4d41-8755-0f5d45cfc571
     type: content
+  - name: 'Instagram '
+    url: 'https://www.instagram.com/antoniojacobmartinez/'
+    type: external
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/828b07fb-a8f9-4bc8-99aa-114ce6c745fd.jpg
 title: Antonio Jacob Martinez
