@@ -10,6 +10,7 @@ color:
     - '#9DB4C0'
     - '#5C6B73'
     - '#253237'
+github: true
 layout_spectrum: 0.5899461917579174
 author:
   name: Antonio Jacob Martinez
@@ -26,6 +27,9 @@ navigation:
   - name: Holy X and the 9th
     id: 17afbfbe-8c37-4206-964d-eb6531481d21
     type: content
+  - name: Anonymous Fathers and Mothers
+    id: 30be4b77-5047-4d41-8755-0f5d45cfc571
+    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/828b07fb-a8f9-4bc8-99aa-114ce6c745fd.jpg
 title: Antonio Jacob Martinez
@@ -38,4 +42,3 @@ purpose:
   - type: internal
     label: About me.
     item: 04268a7c-39d8-4b6f-ba55-7585a7970e33
-github: true
