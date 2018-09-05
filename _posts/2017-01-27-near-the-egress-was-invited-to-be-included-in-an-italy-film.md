@@ -1,9 +1,13 @@
 ---
 inFeed: true
-description: Click to see examples from the Male Gaze Exhibition
-dateModified: '2018-09-05T19:14:53.617Z'
-datePublished: '2018-09-05T19:14:54.670Z'
-title: ' THE MALE GAZE   A small selection of images from the How to Hug and Other Sublimations of Men series was featured in two exhibitions a the Seattle-based gallery. The first exhibit was entitled the Male Gaze, which is a twist on the traditional feminist interpretation of the “male gaze.'
+description: >-
+  A small selection of images from the How to Hug and Other Sublimations of Men
+  series was featured in two exhibitions a the Seattle-based gallery. The first
+  exhibit was entitled the Male Gaze, which is a twist on the traditional
+  feminist interpretation of the “male gaze.
+dateModified: '2018-09-05T19:15:14.823Z'
+datePublished: '2018-09-05T19:15:15.652Z'
+title: ' THE MALE GAZE '
 author:
   - name: 7dot7
     url: 'https://vimeo.com/user3743994'
@@ -19,7 +23,8 @@ url: near-the-egress-by-antonio-martinez/index.html
 _type: Article
 
 ---
-## **THE MALE GAZE **  
+## **THE MALE GAZE **
+
 A small selection of images from the How to Hug and Other Sublimations of Men series was featured in two exhibitions a the Seattle-based gallery. The first exhibit was entitled the Male Gaze, which is a twist on the traditional feminist interpretation of the "male gaze.
 
 [Click to see examples from the Male Gaze Exhibition][0]
