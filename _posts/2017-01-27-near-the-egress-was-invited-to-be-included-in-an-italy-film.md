@@ -5,9 +5,9 @@ description: >-
   series was featured in two exhibitions a the Seattle-based gallery. The first
   exhibit was entitled the Male Gaze, which is a twist on the traditional
   feminist interpretation of the “male gaze.
-dateModified: '2018-09-05T19:15:14.823Z'
-datePublished: '2018-09-05T19:15:15.652Z'
-title: ' THE MALE GAZE '
+dateModified: '2018-09-05T19:15:16.291Z'
+datePublished: '2018-09-05T19:15:16.862Z'
+title: 'THE MALE GAZE '
 author:
   - name: 7dot7
     url: 'https://vimeo.com/user3743994'
