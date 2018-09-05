@@ -6,8 +6,8 @@ description: >-
   Hug and Other Sublimations of Men and previous project, Near the Egress.  Both
   of these projects have been exhibited nationally and internationally and
   belong to permanent collections in national museums.
-dateModified: '2018-09-05T18:08:47.854Z'
-datePublished: '2018-09-05T18:08:48.681Z'
+dateModified: '2018-09-05T18:11:08.549Z'
+datePublished: '2018-09-05T18:11:09.556Z'
 title: ''
 author: []
 publisher: {}
