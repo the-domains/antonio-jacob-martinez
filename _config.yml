@@ -21,6 +21,9 @@ navigation:
   - name: About Me
     id: 04268a7c-39d8-4b6f-ba55-7585a7970e33
     type: content
+  - name: Anonymous Fathers and Mothers
+    id: 30be4b77-5047-4d41-8755-0f5d45cfc571
+    type: content
   - name: How to Hug and Other Sublimations of Men
     id: fa14be47-fc5d-4eec-af55-8fa5f1cebac8
     type: content
@@ -29,9 +32,6 @@ navigation:
     type: content
   - name: Holy X and the 9th
     id: 17afbfbe-8c37-4206-964d-eb6531481d21
-    type: content
-  - name: Anonymous Fathers and Mothers
-    id: 30be4b77-5047-4d41-8755-0f5d45cfc571
     type: content
   - name: 'iPhone '
     id: 1a12e609-8822-4102-9547-0e29f9f2d109
