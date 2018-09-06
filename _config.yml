@@ -39,7 +39,7 @@ navigation:
   - name: 'Instagram '
     url: 'https://www.instagram.com/antoniojacobmartinez/'
     type: external
-  - name: News and Announcements
+  - name: In the News
     id: 76b909c6-432e-49af-80b6-c7c5e32a1e6b
     type: content
 favicon: >-
