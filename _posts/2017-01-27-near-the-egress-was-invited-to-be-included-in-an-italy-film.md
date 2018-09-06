@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Click to see examples from the Male Gaze Exhibition
-dateModified: '2018-09-06T19:13:48.946Z'
-datePublished: '2018-09-06T19:13:49.934Z'
+dateModified: '2018-09-06T19:14:49.344Z'
+datePublished: '2018-09-06T19:14:49.849Z'
 title: News and Announcements
 author:
   - name: 7dot7
@@ -39,21 +39,19 @@ This black and white panorama, created with an iPhone and later processed with L
 
 ---
 
-_**Near the Egress **_was invited to be included in "Transizioni" a photo-slides and narration festival, whose second edition which will be held in Bergamo (Italy) at the end of March 2017\.
-
-<iframe src="https://cdn.embedly.com/widgets/media.html?src=https%3A%2F%2Fplayer.vimeo.com%2Fvideo%2F27213065&amp;url=https%3A%2F%2Fvimeo.com%2F27213065&amp;image=https%3A%2F%2Fi.vimeocdn.com%2Fvideo%2F180490584_640.jpg&amp;key=b7d04c9b404c499eba89ee7072e1c4f7&amp;type=text%2Fhtml&amp;schema=vimeo" width="640" height="424" scrolling="no" frameborder="0" allowfullscreen="" style=""></iframe>
-
----
-
-### FRESH 2016 Finalist
+## FRESH 2016 Finalist
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b5575a301b8a53acd9677e43018d4cacf3c4ef77.jpg" /><h1>FRESH 2016 - Annual Summer Exhibition | KLOMPCHING GALLERY | Artsy</h1><p>KLOMPCHING GALLERY is delighted to announce FRESH 2016, the gallery's annual summer exhibition. The exhibition will open with an Artist Reception on Wednesday, July 13, 6:00-8:00pm. FRESH 2016 is co-curated by Darren Ching and W.M. Hunt, from an international call for submissions.</p></article>
 
 ---
 
-### Near the Egress continues
+## Near the Egress continues
+
+_**Near the Egress **_was invited to be included in "Transizioni" a photo-slides and narration festival, whose second edition which will be held in Bergamo (Italy) at the end of March 2017\.
 
 <article style=""><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/ceec6fcf3cfe876af53bad67aaaa613111af4127.jpg" /><h1>Near the Egress with Antonio Martinez | Grand Center - The Intersection of Art and Life</h1><p>Near the Egress began as a "what if" experiment in which Martinez's interest in modern dryplate tintypes at that time in 2005 was later inspired by John Aasp's lecture on the properties of a moving still image and influenced by Stan Brakhage's experimental films. Near the Egress is a three part series comprised of the original modern dryplate tintype, the stop-animation video, and digital images that combine the details of the black and white negative and the ephemeral effects produced by the tintype.</p></article>
+
+---
 
 
 
