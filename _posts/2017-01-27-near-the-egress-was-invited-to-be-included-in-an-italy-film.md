@@ -1,12 +1,8 @@
 ---
 inFeed: true
-description: >-
-  A small selection of images from the How to Hug and Other Sublimations of Men
-  series was featured in two exhibitions a the Seattle-based gallery. The first
-  exhibit was entitled the Male Gaze, which is a twist on the traditional
-  feminist interpretation of the “male gaze.
-dateModified: '2018-09-06T19:10:18.425Z'
-datePublished: '2018-09-06T19:10:19.171Z'
+description: Click to see examples from the Male Gaze Exhibition
+dateModified: '2018-09-06T19:11:45.045Z'
+datePublished: '2018-09-06T19:11:45.888Z'
 title: News and Announcements
 author:
   - name: 7dot7
@@ -25,9 +21,9 @@ _type: Article
 ---
 # **News and Announcements**
 
-### **THE MALE GAZE**
+### **The Male Gaze**
 
-A small selection of images from the How to Hug and Other Sublimations of Men series was featured in two exhibitions a the Seattle-based gallery. The first exhibit was entitled the Male Gaze, which is a twist on the traditional feminist interpretation of the "male gaze.
+### A small selection of images from the How to Hug and Other Sublimations of Men series was featured in two exhibitions a the Seattle-based gallery. The first exhibit was entitled the Male Gaze, which is a twist on the traditional feminist interpretation of the "male gaze.
 
 [Click to see examples from the Male Gaze Exhibition][0]
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/7b9421aa-6481-4358-af86-a4a46d5a7e49.jpg)
