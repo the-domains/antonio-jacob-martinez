@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Click to see examples from the Male Gaze Exhibition
-dateModified: '2018-09-06T19:14:49.344Z'
-datePublished: '2018-09-06T19:14:49.849Z'
+dateModified: '2018-09-06T19:15:47.871Z'
+datePublished: '2018-09-06T19:15:48.466Z'
 title: News and Announcements
 author:
   - name: 7dot7
