@@ -5,9 +5,9 @@ description: >-
   series was featured in two exhibitions a the Seattle-based gallery. The first
   exhibit was entitled the Male Gaze, which is a twist on the traditional
   feminist interpretation of the “male gaze.
-dateModified: '2018-09-05T19:15:16.291Z'
-datePublished: '2018-09-05T19:15:16.862Z'
-title: 'THE MALE GAZE '
+dateModified: '2018-09-06T19:08:59.166Z'
+datePublished: '2018-09-06T19:09:00.200Z'
+title: THE MALE GAZE
 author:
   - name: 7dot7
     url: 'https://vimeo.com/user3743994'
@@ -23,7 +23,7 @@ url: near-the-egress-by-antonio-martinez/index.html
 _type: Article
 
 ---
-## **THE MALE GAZE **
+## **THE MALE GAZE**
 
 A small selection of images from the How to Hug and Other Sublimations of Men series was featured in two exhibitions a the Seattle-based gallery. The first exhibit was entitled the Male Gaze, which is a twist on the traditional feminist interpretation of the "male gaze.
 
@@ -32,7 +32,7 @@ A small selection of images from the How to Hug and Other Sublimations of Men se
 
 ---
 
-## **WATER **
+## **WATER**
 
 This black and white panorama, created with an iPhone and later processed with Lightroom, was selected for the Midwest Center of Photography's Water exhibition, juried by Linda Robinson. The access point to the top of the Kinkaid Lake cliffs requires a long drive through the backroads of Southern Illinois and about a 2 mile hike along a farm field and through a forest. It's a secluded spot well worth the journey with friends.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/70c8cd8c-a42a-46d5-9725-652527fc3907.jpg)
