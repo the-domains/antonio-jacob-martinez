@@ -18,8 +18,8 @@ description: >-
   the Exhibition Project.
 app_links: []
 title: Freeport Museum Offers Different Takes On Masculinity
-datePublished: '2018-09-05T18:16:33.127Z'
-dateModified: '2018-09-05T18:16:32.171Z'
+datePublished: '2018-09-06T19:22:07.044Z'
+dateModified: '2018-09-06T19:22:06.217Z'
 via: {}
 inFeed: true
 sourcePath: _posts/2017-06-14-freeport-museum-offers-different-takes-on-masculinity.md
