@@ -27,9 +27,6 @@ navigation:
   - name: How to Hug and Other Sublimations of Men
     id: fa14be47-fc5d-4eec-af55-8fa5f1cebac8
     type: content
-  - name: Archive of Activity
-    id: 9d5f6640-89dd-445a-b6cc-a378082b539d
-    type: content
   - name: Holy X and the 9th
     id: 17afbfbe-8c37-4206-964d-eb6531481d21
     type: content
@@ -39,6 +36,9 @@ navigation:
   - name: 'Instagram '
     url: 'https://www.instagram.com/antoniojacobmartinez/'
     type: external
+  - name: Archive of Activity
+    id: 9d5f6640-89dd-445a-b6cc-a378082b539d
+    type: content
   - name: In the News
     id: 76b909c6-432e-49af-80b6-c7c5e32a1e6b
     type: content
