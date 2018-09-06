@@ -1,8 +1,8 @@
 ---
 inFeed: true
 description: Click to see examples from the Male Gaze Exhibition
-dateModified: '2018-09-06T20:26:44.746Z'
-datePublished: '2018-09-06T20:26:45.405Z'
+dateModified: '2018-09-06T20:29:50.277Z'
+datePublished: '2018-09-06T20:29:50.943Z'
 title: Archive of Activity
 author:
   - name: 7dot7
@@ -37,6 +37,7 @@ _**Near the Egress **_was invited to be included in "Transizioni" a photo-slides
 ---
 
 ## Near the Egress (2017, March)
+![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/4207db8e-237e-4e06-8f57-eaa720fd2401.png)
 
 ---
 
