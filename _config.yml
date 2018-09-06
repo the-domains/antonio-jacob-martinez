@@ -18,15 +18,15 @@ author:
   url: 'http://antoniojacobmartinez.com'
 name: Antonio Jacob Martinez
 navigation:
+  - name: About Me
+    id: 04268a7c-39d8-4b6f-ba55-7585a7970e33
+    type: content
   - name: News and Announcements
     id: 9d5f6640-89dd-445a-b6cc-a378082b539d
     type: content
   - name: 'Instagram '
     url: 'https://www.instagram.com/antoniojacobmartinez/'
     type: external
-  - name: About Me
-    id: 04268a7c-39d8-4b6f-ba55-7585a7970e33
-    type: content
   - name: How to Hug
     id: fa14be47-fc5d-4eec-af55-8fa5f1cebac8
     type: content
