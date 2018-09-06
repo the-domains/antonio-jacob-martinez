@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: Click to see examples from the Male Gaze Exhibition
-dateModified: '2018-09-06T19:29:01.092Z'
-datePublished: '2018-09-06T19:29:01.838Z'
-title: Timeline of Activity
+dateModified: '2018-09-06T19:29:32.191Z'
+datePublished: '2018-09-06T19:29:33.038Z'
+title: Archive of Activity
 author:
   - name: 7dot7
     url: 'https://vimeo.com/user3743994'
@@ -19,7 +19,7 @@ url: timeline-of-activity/index.html
 _type: Article
 
 ---
-# **Timeline of Activity**
+# **Archive of Activity**
 
 ---
 
