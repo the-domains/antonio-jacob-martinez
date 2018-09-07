@@ -51,3 +51,6 @@ purpose:
   - type: internal
     label: About me.
     item: 04268a7c-39d8-4b6f-ba55-7585a7970e33
+  - type: external
+    url: 'https://www.instagram.com/antoniojacobmartinez/'
+    label: IG @antoniojacobmartinez
