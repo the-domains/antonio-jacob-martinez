@@ -39,9 +39,6 @@ navigation:
   - name: Archive of Activity
     id: 9d5f6640-89dd-445a-b6cc-a378082b539d
     type: content
-  - name: In the News
-    id: 76b909c6-432e-49af-80b6-c7c5e32a1e6b
-    type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/828b07fb-a8f9-4bc8-99aa-114ce6c745fd.jpg
 title: Antonio Jacob Martinez
