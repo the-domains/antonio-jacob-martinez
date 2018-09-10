@@ -1,9 +1,9 @@
 ---
 inFeed: true
 description: Click to see examples from the Male Gaze Exhibition
-dateModified: '2018-09-06T20:31:03.305Z'
-datePublished: '2018-09-06T20:31:03.940Z'
-title: Archive of Activity
+dateModified: '2018-09-10T18:54:51.565Z'
+datePublished: '2018-09-10T18:54:52.189Z'
+title: Newsworthy
 author:
   - name: 7dot7
     url: 'https://vimeo.com/user3743994'
@@ -19,7 +19,7 @@ url: timeline-of-activity/index.html
 _type: Article
 
 ---
-# **Archive of Activity**
+# **Newsworthy**
 
 ## The Male Gaze (2018)
 
