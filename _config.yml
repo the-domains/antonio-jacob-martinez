@@ -33,9 +33,6 @@ navigation:
   - name: 'Mobile Phone Photography: Small and Curious Amusements'
     id: 1a12e609-8822-4102-9547-0e29f9f2d109
     type: content
-  - name: 'Instagram: Antonio Jacob Martinez'
-    url: 'https://www.instagram.com/antoniojacobmartinez/'
-    type: external
   - name: Archive of Activity
     id: 9d5f6640-89dd-445a-b6cc-a378082b539d
     type: content
