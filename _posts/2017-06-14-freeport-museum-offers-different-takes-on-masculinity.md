@@ -14,8 +14,8 @@ keywords:
 description: '2016'
 app_links: []
 title: NPR Northern Illinois
-datePublished: '2018-09-10T18:55:52.283Z'
-dateModified: '2018-09-10T18:55:51.863Z'
+datePublished: '2018-09-10T18:58:36.979Z'
+dateModified: '2018-09-10T18:58:34.212Z'
 via: {}
 inFeed: false
 sourcePath: _posts/2017-06-14-freeport-museum-offers-different-takes-on-masculinity.md
