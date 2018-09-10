@@ -13,9 +13,9 @@ keywords:
   - ''
 description: '2016'
 app_links: []
-title: News and Announcements
-datePublished: '2018-09-10T18:55:28.175Z'
-dateModified: '2018-09-10T18:55:27.717Z'
+title: NPR Northern Illinois
+datePublished: '2018-09-10T18:55:51.507Z'
+dateModified: '2018-09-10T18:55:50.931Z'
 via: {}
 inFeed: false
 sourcePath: _posts/2017-06-14-freeport-museum-offers-different-takes-on-masculinity.md
@@ -27,7 +27,7 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-# News and Announcements
+# NPR Northern Illinois
 
 2016
 
