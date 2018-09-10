@@ -14,10 +14,10 @@ keywords:
 description: '2016'
 app_links: []
 title: News and Announcements
-datePublished: '2018-09-10T18:54:06.724Z'
-dateModified: '2018-09-10T18:54:04.545Z'
+datePublished: '2018-09-10T18:55:28.175Z'
+dateModified: '2018-09-10T18:55:27.717Z'
 via: {}
-inFeed: true
+inFeed: false
 sourcePath: _posts/2017-06-14-freeport-museum-offers-different-takes-on-masculinity.md
 hasPage: true
 starred: false
