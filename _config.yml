@@ -27,6 +27,9 @@ navigation:
   - name: How to Hug and Other Sublimations of Men
     id: fa14be47-fc5d-4eec-af55-8fa5f1cebac8
     type: content
+  - name: Near the Egress
+    id: 9b5b20cc-6c6d-4d2c-bf25-a411c005af96
+    type: content
   - name: Holy X and the 9th
     id: 17afbfbe-8c37-4206-964d-eb6531481d21
     type: content
@@ -38,9 +41,6 @@ navigation:
     type: content
   - name: Archive of Activity
     id: 9d5f6640-89dd-445a-b6cc-a378082b539d
-    type: content
-  - name: Near the Egress
-    id: 9b5b20cc-6c6d-4d2c-bf25-a411c005af96
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/828b07fb-a8f9-4bc8-99aa-114ce6c745fd.jpg
