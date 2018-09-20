@@ -30,14 +30,14 @@ navigation:
   - name: Holy X and the 9th
     id: 17afbfbe-8c37-4206-964d-eb6531481d21
     type: content
+  - name: Self Help Wonderings
+    id: 3718e311-eb56-40be-b58b-1c559b74ea7e
+    type: content
   - name: 'Mobile Phone Photography: Small and Curious Amusements'
     id: 1a12e609-8822-4102-9547-0e29f9f2d109
     type: content
   - name: Archive of Activity
     id: 9d5f6640-89dd-445a-b6cc-a378082b539d
-    type: content
-  - name: Self Help Wonderings
-    id: 3718e311-eb56-40be-b58b-1c559b74ea7e
     type: content
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/828b07fb-a8f9-4bc8-99aa-114ce6c745fd.jpg
